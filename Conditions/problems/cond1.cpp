@@ -1,5 +1,5 @@
 /*
- * Major Errors: 3
+ * Major Errors: 5
  * Style Errors: 2
  * 
  * Objective: 
